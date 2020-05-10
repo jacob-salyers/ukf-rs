@@ -1,2 +1,2 @@
 # ukf-rs
-Simple Unscented Kalman Transform Algorith in Rust
+Simple Unscented Kalman Transform Algorithm in Rust
